@@ -1,0 +1,8 @@
+{
+  "name": "AI-ADIB PRO",
+  "description": "Adabiyotshunoslik, psixolingvistika va madaniyatshunoslik integratsiyasiga asoslangan universal intellektual tizim. Badiiy tahlil, biblioterapiya va adabiy parallellar bo'yicha yordamchingiz.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
